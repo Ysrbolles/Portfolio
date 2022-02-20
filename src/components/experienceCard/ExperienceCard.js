@@ -58,7 +58,11 @@ class ExperienceCard extends Component {
             className="experience-card-description"
             style={{ color: theme.text }}
           >
-            {experience["description"]}
+            <div
+              dangerouslySetInnerHTML={{
+                __html: experience["description"],
+              }}
+            />
           </p>
         </div>
       </div>
