@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "72ddf49929c52cd55b71ac44e2b722c5",
+    "revision": "bb342a691daf73b7fb3309ba75321b3c",
     "url": "./index.html"
   },
   {
-    "revision": "6e1bbee89f5b0bd1c2a2",
+    "revision": "d325bc5bfe59f427dea8",
     "url": "./static/css/main.fc50d004.chunk.css"
   },
   {
-    "revision": "671c33b9ab7cd5fde705",
-    "url": "./static/js/2.9a50700d.chunk.js"
+    "revision": "9bdd212f286e36635815",
+    "url": "./static/js/2.7303c988.chunk.js"
   },
   {
-    "revision": "6e1bbee89f5b0bd1c2a2",
-    "url": "./static/js/main.95a8ce85.chunk.js"
+    "revision": "d325bc5bfe59f427dea8",
+    "url": "./static/js/main.f88fc1a9.chunk.js"
   },
   {
     "revision": "1a27038c5115d044f6f9",
@@ -60,10 +60,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/address_image.16559172.svg"
   },
   {
-    "revision": "be4f4800caf3d342509c1af959ff434d",
-    "url": "./static/media/animated_ashutosh.be4f4800.png"
-  },
-  {
     "revision": "dcd6dee2bd7458a4a576dc131506fd83",
     "url": "./static/media/animated_logo.dcd6dee2.svg"
   },
@@ -88,16 +84,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/data_science.ebf35d7f.svg"
   },
   {
-    "revision": "75a7107b7739a46950f66de29779eb52",
-    "url": "./static/media/deeplearning_ai_logo.75a7107b.png"
-  },
-  {
     "revision": "3e23ca14e7a7c8a7b63d255466749000",
     "url": "./static/media/developerActivity.3e23ca14.svg"
-  },
-  {
-    "revision": "63f707f224c8a842ac928c36e3be879a",
-    "url": "./static/media/dsc_logo.63f707f2.png"
   },
   {
     "revision": "3bab7a9dc4324f1b2364d25a47fcfcf0",
@@ -176,32 +164,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/fullstack.fce60807.svg"
   },
   {
-    "revision": "0ee7e8c9444cdfefc10f6d86e18b9b5b",
-    "url": "./static/media/gcp_logo.0ee7e8c9.png"
-  },
-  {
     "revision": "6eeb2e810d0fd9f3ca2dcd72de228e68",
     "url": "./static/media/github_logo.6eeb2e81.png"
-  },
-  {
-    "revision": "0c8a4c114ad00f7854e91550379b9b91",
-    "url": "./static/media/googleAssistant.0c8a4c11.jpg"
-  },
-  {
-    "revision": "a6addc3fb6605480614b992ede8cd434",
-    "url": "./static/media/googleAssistant.a6addc3f.svg"
-  },
-  {
-    "revision": "d3fccbe1db76b96f4f320d9c0f7da30c",
-    "url": "./static/media/ibm_logo.d3fccbe1.png"
-  },
-  {
-    "revision": "571a8584e69ecfbe326c8b8385fbbf54",
-    "url": "./static/media/iiitk_logo.571a8584.png"
-  },
-  {
-    "revision": "29152cf756a1facead5393c32e373371",
-    "url": "./static/media/intel_logo.29152cf7.jpg"
   },
   {
     "revision": "5b4a6449747ec61a6d9aa874f2a9ceba",
@@ -212,28 +176,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/leafunder.58bf8f5f.jpeg"
   },
   {
-    "revision": "c597fbded5de799dfb9abc3fc4f1c26f",
-    "url": "./static/media/legato_logo.c597fbde.png"
-  },
-  {
     "revision": "83ac24fb968a474c6a63f7a4e9a8f62c",
     "url": "./static/media/manOnTable.83ac24fb.svg"
   },
   {
     "revision": "c45b70d3f53a85db8ba24ed118cb8540",
     "url": "./static/media/me.c45b70d3.jpeg"
-  },
-  {
-    "revision": "069938a84edd6ebf383c318e9feb5d4c",
-    "url": "./static/media/muffito_logo.069938a8.png"
-  },
-  {
-    "revision": "95a12a2b8c3149cce2175679755c4b4d",
-    "url": "./static/media/nptel_logo.95a12a2b.png"
-  },
-  {
-    "revision": "4ca054b42786b9d6d3edb4432b0422fe",
-    "url": "./static/media/ofppt.4ca054b4.png"
   },
   {
     "revision": "414dfbd98516b39255a3e22ed90b3f7d",
@@ -246,14 +194,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b8ba948796d7ab532673c5ed2f315e74",
     "url": "./static/media/projects_image.b8ba9487.svg"
-  },
-  {
-    "revision": "71408db71465afd742233e4a96f06526",
-    "url": "./static/media/pwa.71408db7.png"
-  },
-  {
-    "revision": "2c497738be3831492aeb6bdc43f19154",
-    "url": "./static/media/stanford_logo.2c497738.png"
   },
   {
     "revision": "6ac91b161c2c9934a44f72d75d18142d",
